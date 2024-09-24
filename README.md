@@ -6,9 +6,7 @@
 
 My academic journey at **Monark University**, where I'm pursuing a Master's in Software Engineering, runs parallel to my professional development. This pursuit enhances my competency in cloud technologies and problem-solving, reinforcing our commitment to delivering excellence in every facet of our work
 
-<p align="left">![quby](https://github.com/user-attachments/assets/d72a9b2b-1870-4ff1-ace1-73b32627440f)
-
- Creating bugs since 2023 ...<br>📚 I'm currently learning Python and Cloud Computing ...<br>🎯 Goals: To be satisfied developer ...<br>🎲 Fun fact: Developers often have a secret superpower: they can turn coffee into code! ☕💻...</p>
+<p align="left">✨Creating bugs since 2023 ...<br>📚 I'm currently learning Python and Cloud Computing ...<br>🎯 Goals: To be satisfied developer ...<br>🎲 Fun fact: Developers often have a secret superpower: they can turn coffee into code! ☕💻...</p>
 
 
 
