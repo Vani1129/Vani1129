@@ -6,8 +6,8 @@
 
 My academic journey at **Monark University**, where I'm pursuing a Master's in Software Engineering, runs parallel to my professional development. This pursuit enhances my competency in cloud technologies and problem-solving, reinforcing our commitment to delivering excellence in every facet of our work
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python nad Cloud Computing ...<br>🎯 Goals: To be satisfied developer ...<br>🎲 Fun fact: ...</p>
-###
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python nad Cloud Computing ...<br>🎯 Goals: To be satisfied developer ...<br>🎲 Fun fact: Developers often have a secret superpower: they can turn coffee into code! ☕💻...</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
