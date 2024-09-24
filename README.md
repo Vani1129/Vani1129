@@ -1,10 +1,12 @@
-<h2 align="left">Hi 👋! My name is Pooja Rai and I'm a Software Developer...</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">My name is Pooja Rai and I'm a Software Developer...</h2>
 
-###
 
+<h2 align="left">About me</h2>
 
 My academic journey at **Monark University**, where I'm pursuing a Master's in Software Engineering, runs parallel to my professional development. This pursuit enhances my competency in cloud technologies and problem-solving, reinforcing our commitment to delivering excellence in every facet of our work
 
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Python nad Cloud Computing ...<br>🎯 Goals: To be satisfied developer ...<br>🎲 Fun fact: ...</p>
 ###
 
 <div align="center">
