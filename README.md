@@ -2,9 +2,8 @@
 
 ###
 
-At **Xira Infotech**, my team is pioneering cutting-edge digital marketing solutions, integrating robust software engineering practices with cloud computing to elevate the digital presence of our clients. We leverage the power of **Django**, **Python**, and **SQL** to deliver dynamic full-stack projects that are as reliable as they are innovative.
 
-My academic journey at **Monark University**, where I'm pursuing a Master's in Software Engineering, runs parallel to my professional development. This pursuit enhances my competency in cloud technologies and problem-solving, reinforcing our commitment to delivering excellence in every facet of our work at Xira Infotech.
+My academic journey at **Monark University**, where I'm pursuing a Master's in Software Engineering, runs parallel to my professional development. This pursuit enhances my competency in cloud technologies and problem-solving, reinforcing our commitment to delivering excellence in every facet of our work
 
 ###
 
