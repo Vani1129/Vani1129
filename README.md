@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">
+  <img src="ana-d-small.gif" alt="Hey 👋 What's up?" />
+</h1>
+
 <h2 align="center">I'm Pooja Rai — Software Developer & Cloud Enthusiast</h2>
 
 <p align="center">🚀 Turning coffee into code since 2023</p>
