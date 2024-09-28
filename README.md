@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="pro.gif" alt="Hey 👋 What's up?" />
+  <img src="https://example.com/your-gif-url.gif](https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="Hey 👋 What's up?" />
 </h1>
+
 
 
 <h2 align="center">I'm Pooja Rai — Software Developer & Cloud Enthusiast</h2>
