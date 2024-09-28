@@ -17,16 +17,17 @@
   }
 </style>
 
+<!-- Waving Hand and Introduction Section -->
 <h1 align="center">
   Hey <span class="wave">👋</span> What's up?
 </h1>
 
+<!-- Animated GIF Section -->
 <h1 align="center">
-  <img src="https://example.com/your-gif-url.gif](https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="Hey 👋 What's up?" />
+  <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="Hey 👋 What's up?" />
 </h1>
 
-
-
+<!-- Short Introduction Section -->
 <h2 align="center">I'm Pooja Rai — Software Developer & Cloud Enthusiast</h2>
 
 <p align="center">🚀 Turning coffee into code since 2023</p>
@@ -39,7 +40,7 @@ I’m a Master’s student in Software Engineering at **Monark University**, dee
 
 - 🌱 **Currently learning**: Python, Cloud Computing
 - 💡 **Goals**: To become a skilled and satisfied developer
-- 🎯 **Fun Fact**:"Did you know? Developers possess a unique ability: they magically convert coffee into code, one cup at a time! ☕✨💻"
+- 🎯 **Fun Fact**: "Did you know? Developers possess a unique ability: they magically convert coffee into code, one cup at a time! ☕✨💻"
 
 ---
 
@@ -75,5 +76,3 @@ I’m a Master’s student in Software Engineering at **Monark University**, dee
 </div>
 
 ---
-
-
