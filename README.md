@@ -1,3 +1,26 @@
+<style>
+  .wave {
+    animation: wave-animation 2s infinite;
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
+<h1 align="center">
+  Hey <span class="wave">👋</span> What's up?
+</h1>
+
 <h1 align="center">
   <img src="https://example.com/your-gif-url.gif](https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="Hey 👋 What's up?" />
 </h1>
@@ -16,7 +39,7 @@ I’m a Master’s student in Software Engineering at **Monark University**, dee
 
 - 🌱 **Currently learning**: Python, Cloud Computing
 - 💡 **Goals**: To become a skilled and satisfied developer
-- 🎯 **Fun Fact**: Developers have a secret superpower: they turn coffee into code! ☕💻
+- 🎯 **Fun Fact**:"Did you know? Developers possess a unique ability: they magically convert coffee into code, one cup at a time! ☕✨💻"
 
 ---
 
