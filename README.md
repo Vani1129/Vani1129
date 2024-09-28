@@ -3,6 +3,11 @@
 <h1 align="center">
   Hey <span class="wave">👋</span> What's up?
 </h1>
+<!--add->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redoxangel&label=Profile%20views&color=0e75b6&style=flat" alt="redoxangel" /> </p>
 
 <!-- Animated GIF Section -->
 <h1 align="center">
